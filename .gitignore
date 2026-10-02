@@ -1,0 +1,5 @@
+/.vscode
+/Datasets
+*.pyc
+*.pth
+/Models

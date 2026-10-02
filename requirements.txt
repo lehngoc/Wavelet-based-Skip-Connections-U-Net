@@ -1,0 +1,10 @@
+torch
+numpy<2
+matplotlib
+tqdm
+Pillow
+monai
+scikit-learn
+albumentations
+pytorch-wavelets
+PyWavelets

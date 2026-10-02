@@ -1,5 +1,6 @@
 /.vscode
 /Datasets
 *.pyc
+__pycache__/
 *.pth
 /Models
